@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #ARP Spoofing Proxy
-#Contributors: Wry, ChatGPT
+#Contributors: James, ChatGPT
 
 interface=""
 router_ip=""
